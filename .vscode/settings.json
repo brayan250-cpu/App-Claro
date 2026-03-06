@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd claro-viajes-app; ng serve --open$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
